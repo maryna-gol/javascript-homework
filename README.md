@@ -2,4 +2,4 @@
 
 
 # Contributors
-- [Maryna Goloborodko](https://github.com/maryna-gol)
+[Maryna Goloborodko](https://github.com/maryna-gol)
